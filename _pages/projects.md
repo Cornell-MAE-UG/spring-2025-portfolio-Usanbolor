@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <Usanbolor Amartuvshin> - Portfolio
-permalink: /projects/
+permalink: /projects/May_2025_Project
 ---
 
 <div class="gallery-container">
